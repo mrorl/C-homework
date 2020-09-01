@@ -5,7 +5,7 @@
 4. Арифметические операторы
 5. Операторы сравнения
 6. operator« для вывода и operator» для ввода */
-/*
+
 #include <iostream>
 using namespace std;
 
@@ -210,4 +210,3 @@ int main()
 
     return 0;
 }
-*/
